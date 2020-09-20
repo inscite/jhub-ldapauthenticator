@@ -1,0 +1,1 @@
+from ldapauthenticator.ldapauthenticator import LDAPAuthenticator
